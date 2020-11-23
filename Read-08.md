@@ -113,11 +113,3 @@ WHERE Country='Germany' OR Country='Spain';
 SELECT * FROM Customers
 WHERE NOT Country='Germany';
 ```
-
-**There are alot of Query Stetment That u can used in database**
-[W3School](https://www.w3schools.com/sql/default.asp)
-
-## Contact Info : 
-**Please Feel Free To Contact Me When You Need help ^_^**
-* [www.facebook.com/aghyadalbalkhi](www.facebook.com/aghyadalbalkhi)
-* Email : aghyadalbalkhi@gmail.com
