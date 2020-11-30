@@ -46,33 +46,3 @@
 </ul>
 
 ```
-
-
-**Example**
-
-```
-<% if (user) { %>
-  <h2><%= user.name %></h2>
-<% } %>
-```
-
-```
-let template = ejs.compile(str, options);
-template(data);
-// => Rendered HTML string
-
-ejs.render(str, data, options);
-// => Rendered HTML string
-
-ejs.renderFile(filename, data, options, function(err, str){
-    // str => Rendered HTML string
-});
-```
-
-
-## Contact Info : 
-**Please Feel Free To Contact Me When You Need help ^_^**
-* [www.facebook.com/aghyadalbalkhi](www.facebook.com/aghyadalbalkhi)
-* Email : aghyadalbalkhi@gmail.com
-
-
