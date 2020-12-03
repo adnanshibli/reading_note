@@ -32,11 +32,3 @@ But only a first step. After deciding that diversity matters and articulating it
 
 
 
-
-
-
-
-
-**Please Feel Free To Contact Me When You Need help ^_^**
-* [www.facebook.com/aghyadalbalkhi](www.facebook.com/aghyadalbalkhi)
-* Email : aghyadalbalkhi@gmail.com

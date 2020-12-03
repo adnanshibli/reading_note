@@ -50,8 +50,3 @@ Data Duplication and Modification Anomalies
 -Deletion of a row causes removal of more than one set of facts. For instance, if John Hunt retires, then deleting that row cause us to lose information about the New York office.
 
 
-
-**Please Feel Free To Contact Me When You Need help ^_^**
-* [www.facebook.com/aghyadalbalkhi](www.facebook.com/aghyadalbalkhi)
-* Email : aghyadalbalkhi@gmail.com
-
